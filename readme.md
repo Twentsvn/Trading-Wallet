@@ -1,1 +1,1 @@
-## Simple Trading Platform
+## Simple Trading Platform Wallet
