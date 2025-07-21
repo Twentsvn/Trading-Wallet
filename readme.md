@@ -6,6 +6,6 @@ make ..
 ```
 
 ### Note
-- It uses the data from the file `Data.csv` to execute the trade.  
+- It uses the data from the file `Data.csv` to execute the trade. (And you make the time run)  
 - Trade happens according to my algorithm (It is mutable).
 
